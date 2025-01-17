@@ -46,7 +46,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: darkly
     code-copy: true
     code-overflow: wrap
     toc: true
